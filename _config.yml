@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-permalink: date
+permalink: /:categories/:year/:month/:title/
 title: Welcome to my homepage !!
 description: Description of my website
